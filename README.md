@@ -1,6 +1,6 @@
 # sentiment-analysis
 
-In this project, we build a sentiment analysis tool that processes YouTube comments and provides a sentiment score and summary for each video. 
+Sentiment analysis tool that processes YouTube comments and provides a sentiment score and summary for each video. 
 
 ## Installation
 
